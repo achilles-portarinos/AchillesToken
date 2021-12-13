@@ -1,5 +1,3 @@
-// test/AchillesToken.test.js
-// Load dependencies
 const { accounts, contract } = require("@openzeppelin/test-environment");
 const { expect } = require("chai");
 const { BN, expectEvent, expectRevert } = require("@openzeppelin/test-helpers");
